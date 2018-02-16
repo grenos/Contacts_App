@@ -99,9 +99,9 @@ function printCard (uniqueId){ // print contact card in modal
                         '<a href="mailto:'+contacts[i].email+'?Subject=Hello!" target="_top" class="waves-effect waves-light"><i class="material-icons right">email</i></a>'+
                         '<a onclick="deleteContact(\''+uniqueId+'\')" class="waves-effect waves-light"><i class="material-icons right">delete</i></a>'+
                 
-                        '<a href="https://www.instagram.com/explore/people/\''+contacts[i].name+contacts[i].surname+'"\' target="_blank" class="waves-effect waves-light secondary-content"><img src="icons/insta_icon.png"</a>'+
+                        '<a href="https://www.instagram.com/explore/people/\''+contacts[i].name+contacts[i].surname+'"\' target="_blank" class="waves-effect waves-light secondary-content"><img src="icons/Insta_icon.png"</a>'+
                 
-                        '<a href="https://www.facebook.com/search/top/?q=\''+contacts[i].name+contacts[i].surname+'"\' target="_blank" class="waves-effect waves-light secondary-content"><img src="icons/f_icon.png""</a></a>'+
+                        '<a href="https://www.facebook.com/search/top/?q=\''+contacts[i].name+contacts[i].surname+'"\' target="_blank" class="waves-effect waves-light secondary-content"><img src="icons/f_icon.png"</a></a>'+
                 
                         '<ul class="collection collection-card-item">'+
                             '<li class="collection-item inner-card-item">Home Number:<span class="card-details">'+contacts[i].homeNo+'</span></li>'+
