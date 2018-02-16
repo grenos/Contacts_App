@@ -8,6 +8,7 @@ Remove material design from contact list (box shadows, borders)
 JS
 Add headers letters over list items
 Experiment with Facebook API
+Add ability to change details in a contact
 
 
 EXTRA 
