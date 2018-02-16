@@ -58,11 +58,6 @@ i.icon-grey:hover {
     margin-top: 35px;
 }
 
-ul {
-    -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.19), 0 4px 9px rgba(0, 0, 0, 0.23);
-    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.19), 0 4px 9px rgba(0, 0, 0, 0.23);
-}
-
 .small-header {
     font-weight: 200;
 }

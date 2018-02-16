@@ -3,11 +3,11 @@ TO DO
 
 HTML/CSS
 Adapt to smaller devices
-Remove material design from contact list (box shadows, borders)
+
 
 JS
 Add headers letters over list items
-Experiment with Facebook API
+Experiment with Facebook API?
 Add ability to change details in a contact
 
 
