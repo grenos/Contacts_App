@@ -137,7 +137,7 @@ function  openDelete(){ // open confirm delete modal
     confirmDel.style.display = 'block';  
 }
 
-confirmDel.addEventListener('click', function(){
+deleteBtn.addEventListener('click', function(){
     var contacts = JSON.parse(localStorage.getItem('contacts')); // get JSON
     for (var i = 0; i < contacts.length; i++ ) {  // loop through the contacts array
         var uniqueId = contacts[i].id;
